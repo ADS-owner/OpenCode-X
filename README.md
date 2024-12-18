@@ -1,5 +1,5 @@
 > [!WARNING]
-> You are most likely going to be banned since this is detected by Byfron. Use an alt account while running Xeno. Use the repository to understand what's happening and how it works.
+> You are most likely going to be banned since Byfron detects this. Use an alt account while running Xeno. Use the repository to understand what's happening and how it works.
 > I am not liable for any bans
 
 # Xeno
@@ -7,26 +7,8 @@ An executor made for the web version of Roblox.
 
 It uses the common method of writing unsigned bytecode into a Roblox core module script to manage execution, also more stable and flexible than most executors that has used this exact method.
 
-# Donation
-I have made a total of **$34.97** from making the project Xeno. I would highly appreciate any donations that were given to me by anyone since I have spent a lot of time working on this project.
-
-**CashApp:** ``$RizveA``
-
-**PayPal:** ``RizveA``
-
-**Bitcoin:** ``bc1qvhdnqtgcselqv9s9dt9varadh0zkal5239pgl4``
-
-**Ethereum:** ``0x713eAb6Bc8e18D1E0cdF6f03eA03df57c889592A``
-
-**Litecoin:** ``LVNsAoXbJHgdCcc6oi8cqbYmGqg9tXsM2P``
-
-Top 3 Donators:
-1. [*Czdxy*](https://discord.com/users/920163701934424084): **$18.00**
-2. [*kqrara*](https://discord.com/users/1241238935288545322): **$11.62**
-3. **literallysolodev**: **$5.34**
-
 ## Note
-If you're going to use my source and "skid" off of it atleast use the license and give credits. Don't be like the others who used my entire source code and claimed it as their own without mentioning anything about Xeno nor the publisher + distributing & selling to others.
+This code was originally from Xeno by Rizve.
 
 ## Features
 - Fast execution
@@ -41,7 +23,7 @@ I have only used this project to learn C++ and a bit of C#.
 Do not expect the best code and memory management.
 You will see really bad code and design on the XenoUI C# WPF project since it was only made as a **prototype**.
 
-This executor has many vulnerabilities because only I have used **Xeno** and did not make a public release.
+This executor has many vulnerabilities and did not make a public release.
 
 Custom functions examples:
 ```lua
@@ -80,7 +62,6 @@ This will remove **HttpGet** from game!
 You can use the modified version of dex made for Xeno inside the released files
 
 ### Preview
-<p>This is the UI of the version 1.0.1:</p>
 <img src="v1.0.1-Preview.png" alt="Preview" width="600" style="box-shadow: 10px 10px 20px rgba(0, 0, 0, 0.5), -10px -10px 20px rgba(255, 255, 255, 0.3);" />
 <p>The Current UNC is <span style="color: green;">~75%</span></p>
 <img src="v1.0.45-UNC.png" alt="Preview" width="600" style="box-shadow: 10px 10px 20px rgba(0, 0, 0, 0.5), -10px -10px 20px rgba(255, 255, 255, 0.3);" />
