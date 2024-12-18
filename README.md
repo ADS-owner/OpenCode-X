@@ -2,7 +2,7 @@
 > You are most likely going to be banned since Byfron detects this. Use an alt account while running Xeno. Use the repository to understand what's happening and how it works.
 > I am not liable for any bans
 
-# Xeno
+# OpenCode-X
 An executor made for the web version of Roblox.
 
 It uses the common method of writing unsigned bytecode into a Roblox core module script to manage execution, also more stable and flexible than most executors that has used this exact method.
